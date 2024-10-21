@@ -3,7 +3,7 @@
    *.o
    *.pyc
    *.joblib
-   .venv/
+   .venv
 
    # Ignore logs and databases
    *.log
